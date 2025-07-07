@@ -1,0 +1,3 @@
+n8n.yourdomain.com {
+    reverse_proxy localhost:5678
+}
